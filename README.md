@@ -6,7 +6,7 @@ Linux Low level file sharer.
 run {./server PORTNUMBER}
 to open the server 
 
----client---
+---Client---
 run {./client IP PORTNUMBER fileRequest saveName}
 to connect with server at IP and PORTNUMBER, 
 and request to download fileReguest as saveName
